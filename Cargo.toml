@@ -3,6 +3,11 @@ name = "taiwan-id"
 version = "1.0.0"
 authors = ["Jian Weihang <tonytonyjan@gmail.com>"]
 edition = "2018"
+repository = "https://github.com/tonytonyjan/rust-taiwan-id"
+documentation = "https://docs.rs/taiwan-id"
+readme = "README.md"
+description = "Taiwan ID verifier and generator."
+license = "MIT OR Apache-2.0"
 
 [dependencies]
 
